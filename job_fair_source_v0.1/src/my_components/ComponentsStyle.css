@@ -1,0 +1,22 @@
+.gridBackground {
+    background-image:
+        linear-gradient(to right,  #82B3F9 1px, transparent 1px),
+        linear-gradient(to bottom, #82B3F9 1px, transparent 1px);
+    background-size: 0.7rem 0.7rem;
+    background-position: center center;
+}
+
+.roundedRectangle {
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    margin: 30px;
+    padding: 10px;
+}
+
+/* java script로 클릭이벤트 주기, 클릭되면 색상 변경 예정 */
+.myTab {
+    background-color: #A1C7FF;
+    padding: 7px 50px;
+    border-radius: 50px 50px 0px 0px;
+}
